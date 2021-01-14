@@ -2,12 +2,9 @@
   "folders": [
     {
       "path": "."
-    },
-    {
-      "path": "../week-in-review"
     }
   ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "week-in-review"
+    "liveServer.settings.multiRootWorkspaceName": "place-to-visit"
   }
 }
